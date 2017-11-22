@@ -12,9 +12,9 @@
   url: /music/
   icon: music
   
-- title: Stories
-  url: /stories/
-  icon: book
+- title: Travelogue
+  url: /travelogue/
+  icon: plane
 
 - title: Tags
   url: /tags/
