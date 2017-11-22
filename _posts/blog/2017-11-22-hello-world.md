@@ -3,8 +3,8 @@ layout: post
 title: "Hello World!"
 modified:
 categories: blog
-date: 2017-11-22T03:11:00
-modified: 2017-11-22T16:55:02
+date: 2017-11-22T03:11:00-04:00
+modified: 2017-11-22T16:55:02-04:00
 tags: [tag3]
 author: Author1
 ---
