@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Micronaut Modified So Simple Theme
+title: musician musings
 locale: en_US
-timezone: CET
-description: Theme based on So Simple Theme
+timezone: EST
+description: where kevi occasionally publishes thoughts
 logo: site-logo.svg
 search: true
 url: #your-site-url
@@ -43,12 +43,12 @@ paginate_path: /posts/page:num
 
 # Site owner
 owner:
-  name: Site Name
+  name: kevi
   avatar: site-logo.png
   email: #youremail
   disqus-shortname: #your-disqus-shortname
   twitter: #your-twitter-name
-  facebook: #username
+  facebook: kevi8991
   github: #your-github-name
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
