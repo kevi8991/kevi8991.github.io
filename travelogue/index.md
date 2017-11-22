@@ -1,15 +1,15 @@
 ---
 layout: archivepage
-categories: [stories]
-title: Stories
-excerpt: "An archive of fictional stories sorted by date."
+categories: [travelogue]
+title: Travelogue
+excerpt: "A journal of my travels."
 hidelogo: true
 search_omit: true
 archive:
   image: images/000068880009.jpg
 ---
 <ul class="post-list">
-{% for post in site.categories.stories %}
+{% for post in site.categories.travelogue %}
   <li>
     <article>
 		<a href="{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a>
