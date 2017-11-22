@@ -1,7 +1,7 @@
 ---
 layout: page
 title: hi world (￣▽￣)ノ
-excerpt: "greetings"
+excerpt: "About this site"
 date: '2017-11-22T03:00:00-05:00'
 search_omit: true
 ---
