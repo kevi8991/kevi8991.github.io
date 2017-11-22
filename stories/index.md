@@ -6,7 +6,7 @@ excerpt: "An archive of fictional stories sorted by date."
 hidelogo: true
 search_omit: true
 archive:
-  image: images/reading-man.gif
+  image: images/000068880009.jpg
 ---
 <ul class="post-list">
 {% for post in site.categories.stories %}
