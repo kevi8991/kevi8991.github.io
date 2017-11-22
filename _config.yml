@@ -4,7 +4,7 @@ title: musician musings
 locale: en_US
 timezone: EST
 description: where kevi occasionally publishes thoughts
-logo: site-logo.svg
+logo: profile.png
 search: true
 url: #your-site-url
 external_data_url: # common url for images and other external data
@@ -44,7 +44,7 @@ paginate_path: /posts/page:num
 # Site owner
 owner:
   name: kevi
-  avatar: site-logo.png
+  avatar: profile.png
   email: #youremail
   disqus-shortname: #your-disqus-shortname
   twitter: #your-twitter-name
