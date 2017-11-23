@@ -2,7 +2,7 @@
 layout: archivepage
 categories: [music]
 title: Music
-excerpt: "An archive of music posts sorted by date."
+excerpt: "Discussions of my musical endeavours."
 hidelogo: true
 search_omit: true
 archive:
