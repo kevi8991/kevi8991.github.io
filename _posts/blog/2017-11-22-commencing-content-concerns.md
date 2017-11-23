@@ -11,7 +11,7 @@ I have a great many ideas as to what I should like to write about on this blog. 
 
 However, I don't quite know where to start.
 
-Just as the hardest part about starting this blog wasn't actually learning HTML or CSS, but rather getting off my behind and diving right into it; the hardest part about blogging right now is figuring out what to start writing about.
+Just as the hardest part about starting this blog wasn't actually learning HTML and CSS, but rather getting off my behind and diving right into it; the hardest part about blogging right now is figuring out what to start writing about.
 
 I have been contemplating writing about Front of House (FOH) engineer practice with regards to micing and mixing, and compiling some resources that explain the very basics of input-output theory for use in non-demanding environments. This, of course, is a direct result of my insane amount of immersion in the student theatre community at U of T, but it also stems from my earnest desire to make "tech" work feel less inaccessible to everyone involved in any sort of production.
 
