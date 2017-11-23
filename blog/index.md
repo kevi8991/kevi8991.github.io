@@ -2,7 +2,7 @@
 layout: archivepage
 categories: [blog]
 title: Blog
-excerpt: "An archive of blog posts sorted by date."
+excerpt: "Sporadic musings on my everyday life."
 hidelogo: true
 search_omit: true
 archive:
