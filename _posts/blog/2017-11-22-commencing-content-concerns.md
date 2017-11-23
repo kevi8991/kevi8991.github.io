@@ -4,6 +4,8 @@ title: "Commencing Content Concerns"
 categories: blog
 date: 2017-11-22T19:44:00-04:00
 modified: 2017-11-23T02:27:59-04:00
+image:
+ feature: 000016340014.jpg
 relatedposts:
  - url: /blog/hello-world/
 ---
