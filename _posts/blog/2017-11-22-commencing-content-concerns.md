@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Commencing Content Concerns"
-modified:
 categories: blog
 date: 2017-11-22T19:44:00-04:00
-modified: 2017-11-23T01:43:59-04:00
+modified: 2017-11-23T02:27:59-04:00
+relatedposts:
+ - url: /blog/hello-world/
 ---
 
 I have a great many ideas as to what I should like to write about on this blog. For instance, I'd like to write a bit about my interests and hobbies: fountain pens, coffee, film photography, and tech. I'd also like to keep a regular log of my travels, as well as a fairly up-to-date column about my musical endevaours and changing musical tastes.
