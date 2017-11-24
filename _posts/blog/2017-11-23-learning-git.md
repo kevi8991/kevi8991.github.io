@@ -12,11 +12,14 @@ As it turns out, editing text files on GitHub is far from the best way to create
 
 Following this, I'm hoping to figure out how to locally develop the site so I don't have to tether my phone to my laptop for consistent connection...
 
-_Thu 23-11-17 15:13_
+_Thu 2017-11-23 15:13_
 Ruby is being a total pain and can't find any of its dependencies. I've found a workaround that allows me to view the site locally, but all of the Jekyll gems are glitching out.
 
-_Thu 23-11-17 17:12_
+_Thu 2017-11-23 17:12_
 The one I hoped would be my saving grace, [Thomas Jean Lynch][tfb], has confirmed that they do not use Ruby and cannot offer me any assistance. I continue to bob along in the ocean, aimlessly and helplessly.
+
+_Thu 2017-11-23 19:52_
+Hi I saved Kevin.
 
 [fb]: https://www.facebook.com/aaaamperes
 [st]: https://www.sublimetext.com
