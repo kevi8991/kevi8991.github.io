@@ -8,9 +8,9 @@
   url: /blog/
   icon: pencil
 
-- title: Music
-  url: /music/
-  icon: music
+- title: Audio
+  url: /audio/
+  icon: microphone
   
 - title: Travelogue
   url: /travelogue/
