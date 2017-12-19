@@ -2,12 +2,14 @@
 layout: post
 title: "Commencing Content Concerns"
 categories: blog
-date: 2017-11-22T19:44:00-04:00
-modified: 2017-11-24T13:06:00-04:00
+tags: blogging
+date: 2017-11-23T19:44:00-04:00
+modified: 2017-12-16T01:18
 image:
- feature: 000016340014.jpg
+ feature: blog/000016340014.jpg
 relatedposts:
- - url: /blog/hello-world/
+  - url: /blog/hello-world/
+  - url: /audio/theatrical-micing-a-prelude/
 ---
 
 I have a great many ideas as to what I should like to write about on this blog. For instance, I'd like to write a bit about my interests and hobbies: fountain pens, coffee, film photography, and tech. I'd also like to keep a regular log of my travels, as well as a fairly up-to-date column about my musical endevaours and changing musical tastes.
@@ -23,4 +25,7 @@ Additionally, I've wanted to start creating guides for some of the more complex 
 I will keep this post updated as my train of thought continues to chug along into the night.
 
 _Fri 2017-11-24 13:01_
-I think I'll probably condense the Music section into the main section of the blog, and instead have a dedicated Theatre or Audio Engineering section. While the piano eats up an inordinate amount of time and energy in my life, I don't actually have that much to say about music in general. Hopefully semi-regular blogging will change that, but for now I think it would be more useful to have a discrete section of the blog for informative discussion regarding the ins and outs of theatrical production.
+I think I'll probably condense the Music section into the main section of the blog, and instead have a dedicated Theatre section or something. While the piano eats up an inordinate amount of time and energy in my life, I don't actually have that much to say about music in general. Hopefully semi-regular blogging will change that, but for now I think it would be more useful to have a discrete section of the blog for informative discussion regarding the ins and outs of theatrical production.
+
+_Sat 2017-12-16 01:08_
+Changed the Music section to the Audio section! I've also written an actual post that isn't just some meta rambling about blogging--you can find it [here](/audio/theatrical-micing-a-prelude.html) or in the related posts blurb below.

@@ -2,6 +2,7 @@
 layout: post
 title: "Theatrical Micing: A Prelude"
 categories: audio
+tags: audio
 image:
  feature: micing/DSC_8536.jpg
 date: 2017-12-03T02:21

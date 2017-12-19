@@ -2,6 +2,7 @@
 title: "Work Ethic"
 layout: post
 categories: blog
+tags: school
 date: 2017-12-05T15:38
 ---
 
@@ -9,4 +10,4 @@ date: 2017-12-05T15:38
 
 Lately, I've been struggling with getting myself to the piano to practice. Also, I've been having difficulty getting myself to the computer to write up my papers... and sometimes, I just don't feel like getting out of bed.
 
-Anyway, I obviously have issues with procrastination; this is simply a fact of life. But I also have an odd tendency to binge on one of my commitments while ignoring all of my other responsibilities for extended periods of time--
+Anyway, I obviously have issues with procrastination; this is simply a fact of life. But I also have an odd tendency to binge on one of my commitments or hobbies while ignoring all of my other responsibilities for extended periods of time--and now it's time to stop editing my blog and get back to work.
