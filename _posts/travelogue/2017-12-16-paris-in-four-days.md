@@ -8,11 +8,11 @@ image:
   feature: travelogue/006028640028.jpg
 ---
 
-I spent reading week this year in lovely Paris, for a whole four days! Pretty exciting, I know. I make an effort to take a trip out of the city every chance I get, even if the break is only a few days long, and so I enthusiastically agreed to accompany my friend [Andrew][fb] on a Parisian adventure he'd been planning for a while. Since I decided to tag along several weeks after he had already booked his flight, we had to hunt each other down in CDG after our respective flights arrived, but we somehow figured it out and went on our way.
+I spent reading week this year in lovely Paris, for a whole four days! Pretty exciting, I know. I make an effort to take a trip out of the city every chance I get, even if the break is only a few days long, and so I enthusiastically agreed to accompany my friend [Andrew](https://www.facebook.com/andrew.hoang.39) on a Parisian adventure he'd been planning for a while. Since I decided to tag along several weeks after he had already booked his flight, we had to hunt each other down in CDG after our respective flights arrived, but we somehow figured it out and went on our way.
 
 ## Day One
 
-First order of business was the AirBnB. Normally, this wouldn't be an issue, but our host was apparently away on business or something... so she sent her cousin to let us in and accept the payment. Of course, this became a whole ordeal since neither of us had data, but we found some Wifi and made it work.
+First order of business was the Airbnb. Normally, this wouldn't be an issue, but our host was apparently away on business or something... so she sent her cousin to let us in and accept the payment. Of course, this became a whole ordeal since neither of us had data, but we found some Wifi and made it work.
 
 <figure>
 	<img src="/images/travelogue/paris-in-four-days/000062820024.jpg" alt="image">
@@ -26,13 +26,13 @@ We visited the Catacombs in the evening after dropping off our stuff, and boy wa
 	<figcaption>A Spooky Smile. Skulls were often arranged in lines or patterns among the bones.</figcaption>
 </figure>
 
-Just goes to show how inefficient traditional burials were and/or are, I suppose. Anyway, we grabbed some wine and cheese on the way back to the AirBnB, and called it a night.
+Just goes to show how inefficient traditional burials were and/or are, I suppose. Anyway, we grabbed dinner at [Le Hibou](http://lehibouparis.fr/en/services) on the way back to the Airbnb, and called it a night.
 
 ## Day Two
 
 <figure>
 	<img src="/images/travelogue/paris-in-four-days/000062820015.jpg" alt="image">
-	<figcaption>Morning stroll down the Seine. You can see the #10 subway crossing the river here.</figcaption>
+	<figcaption>Morning stroll down the Seine. You can see the #5 subway crossing the river here.</figcaption>
 </figure>
 
 The second day of our trip was very much the day we embraced the joys of being a tourist. We took a lovely stroll down the Seine, snapping more than our fair share of photos along the way.
@@ -49,6 +49,3 @@ We elected to climb the stairs up to the second platform of the Eiffel Tower bef
 	<img src="/images/travelogue/paris-in-four-days/000062820002.jpg" alt="image">
 	<figcaption>Champ de Mars. Each of those little black specks is a person on the ground!</figcaption>
 </figure>
-
-
-[fb]: https://www.facebook.com/andrew.hoang.39
