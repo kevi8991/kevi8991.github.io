@@ -2,7 +2,7 @@
 layout: archivepage
 categories: [blog]
 title: Blog
-excerpt: "Sporadic musings on my everyday life."
+excerpt: "Sporadic documentation of my everyday life."
 hidelogo: true
 search_omit: true
 archive:
