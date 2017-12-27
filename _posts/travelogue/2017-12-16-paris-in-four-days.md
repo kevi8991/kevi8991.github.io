@@ -16,14 +16,14 @@ First order of business was the AirBnB. Normally, this wouldn't be an issue, but
 
 <figure>
 	<img src="/images/travelogue/paris-in-four-days/000062820024.jpg" alt="image">
-	<figcaption>A Cross in the Catacombs. Taken on Kodak TriX.</figcaption>
+	<figcaption>A Cross in the Catacombs. Olympus OM-10, Zuiko Auto-S 50mm f/1.8. Kodak TriX.</figcaption>
 </figure>
 
 We visited the Catacombs in the evening after dropping off our stuff, and boy was it spooky down there! If I recall correctly, the bones of about six million people in graveyards across Paris were dug up and relocated into the old limestone quarries beneath the city throughout the 16th century, as graves within the city were dangerously over capacity.
 
 <figure>
 	<img src="/images/travelogue/paris-in-four-days/000062820023.jpg" alt="image">
-	<figcaption>A Spooky Smile. Taken on Kodak TriX.</figcaption>
+	<figcaption>A Spooky Smile. Skulls were often arranged in lines or patterns among the bones.</figcaption>
 </figure>
 
 Just goes to show how inefficient traditional burials were and/or are, I suppose. Anyway, we grabbed some wine and cheese on the way back to the AirBnB, and called it a night.
@@ -32,20 +32,23 @@ Just goes to show how inefficient traditional burials were and/or are, I suppose
 
 <figure>
 	<img src="/images/travelogue/paris-in-four-days/000062820015.jpg" alt="image">
-	<figcaption>Morning Stroll down the Seine. Taken on Kodak TriX.</figcaption>
+	<figcaption>Morning stroll down the Seine. You can see the #10 subway crossing the river here.</figcaption>
 </figure>
 
-The second day of our trip was very much the day we embraced the joys of being a tourist. We took a lovely stroll down the Seine, snapping more than our fair share of photos along the way--you can tell where our respective cover photos came from!
+The second day of our trip was very much the day we embraced the joys of being a tourist. We took a lovely stroll down the Seine, snapping more than our fair share of photos along the way.
 
 <figure class="half">
   <img src="/images/travelogue/paris-in-four-days/000062820009.jpg" alt="image">
   <img src="/images/travelogue/paris-in-four-days/000062820013.jpg" alt="image">
-	<figcaption>The Iron Beauty. Taken on Kodak TriX.</figcaption>
+	<figcaption>A few perspectives of the Iron Beauty. The construction of the tower is astounding; it comprises 18,038 pieces held together by 2.5 million rivets.</figcaption>
 </figure>
 
 We elected to climb the stairs up to the second platform of the Eiffel Tower before taking the elevator the rest of the way up--I don't think those stairs are open to the public anyway--and Andrew was _not_ having it. Maybe this is why I've been affectionately dubbed "Star Climber 3000" in a group chat with my first year mates?
 
 <figure>
 	<img src="/images/travelogue/paris-in-four-days/000062820002.jpg" alt="image">
-	<figcaption>Champ de Mars. Taken on Kodak TriX.</figcaption>
+	<figcaption>Champ de Mars. Each of those little black specks is a person on the ground!</figcaption>
 </figure>
+
+
+[fb]: https://www.facebook.com/andrew.hoang.39
