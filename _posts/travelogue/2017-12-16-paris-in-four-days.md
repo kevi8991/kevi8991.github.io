@@ -4,6 +4,7 @@ categories: travelogue
 layout: post
 tags: travel
 date: 2017-12-16T02:08
+modified: 2017-12-27T14:51
 image:
   feature: travelogue/006028640028.jpg
 ---
@@ -23,7 +24,7 @@ We visited the Catacombs in the evening after dropping off our stuff, and boy wa
 
 <figure>
 	<img src="/images/travelogue/paris-in-four-days/000062820023.jpg" alt="image">
-	<figcaption>A Spooky Smile. Skulls were often arranged in lines or patterns among the bones.</figcaption>
+	<figcaption>A Spooky Smile. Skulls are arranged in lines or patterns among the bones.</figcaption>
 </figure>
 
 Just goes to show how inefficient traditional burials were and/or are, I suppose. Anyway, we grabbed dinner at [Le Hibou](http://lehibouparis.fr/en/services) on the way back to the Airbnb, and called it a night.
@@ -49,3 +50,12 @@ We elected to climb the stairs up to the second platform of the Eiffel Tower bef
 	<img src="/images/travelogue/paris-in-four-days/000062820002.jpg" alt="image">
 	<figcaption>Champ de Mars. Each of those little black specks is a person on the ground!</figcaption>
 </figure>
+
+Anyway, the view from the top was absolutely stunning; the Eiffel Tower is the tallest building in all of Paris, and it's surrounded by a bunch of low-rises, so the effect is further pronounced. I swapped to colour slide film on the way up.
+
+<figure>
+	<img src="/images/travelogue/paris-in-four-days/006028640005.jpg" alt="image">
+	<figcaption>Overlooking the bridges across the Seine as the clouds roll away. Shot on Rollei Vario Chrome.</figcaption>
+</figure>
+
+Following a lovely lunch at [Chez Ming](http://www.chezming.fr), we made our way over to the [Palais de Tokyo](http://www.palaisdetokyo.com/en) and promptly fell asleep on the couches outside the gift shop--we'd probably slept about five hours over the past three days.
