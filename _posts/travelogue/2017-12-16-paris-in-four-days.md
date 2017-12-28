@@ -58,4 +58,11 @@ Anyway, the view from the top was absolutely stunning; the Eiffel Tower is the t
 	<figcaption>Overlooking the bridges across the Seine as the clouds roll away. Shot on Rollei Vario Chrome.</figcaption>
 </figure>
 
-Following a lovely lunch at [Chez Ming](http://www.chezming.fr), we made our way over to the [Palais de Tokyo](http://www.palaisdetokyo.com/en) and promptly fell asleep on the couches outside the gift shop--we'd probably slept about five hours over the past three days.
+Following a lovely lunch at [Chez Ming](http://www.chezming.fr), we made our way over to the [Palais de Tokyo](http://www.palaisdetokyo.com/en) and promptly fell asleep on the couches outside the gift shop--we'd probably slept about five hours over the past three days!
+
+<figure>
+	<img src="/images/travelogue/paris-in-four-days/006028640020.jpg" alt="image">
+	<figcaption>Focal piece of the Tuesday room. Each segment of the exhibit represents a different day of the week.</figcaption>
+</figure>
+
+I found the exhibit thoroughly enjoyable, and spent several hours weaving my way through each of the different rooms. _Saturday Night_--a discombobulated mess of posters, sculptures, and household items--and _Monday_--sculptures depicting various moods experienced through a long and dreary Monday--were particularly entertaining for me. You can find out more about the exhibit [here](http://www.palaisdetokyo.com/en/event/carte-blanche-camille-henrot).
