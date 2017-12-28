@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-title: Airports: A Rant
+title: "Airports: A Rant"
 tags: travel
 date: 2017-12-28T00:53
 ---
