@@ -20,7 +20,7 @@ I've been traveling a lot recently, and thus I'm reminded of the horrendous inef
 - Security lines in Canada are obnoxiously slow. In contrast, Europe has it all figured out; any and all electronic devices have to be taken out of your carry-on, and the scanners are far more up-to-date, so there are significantly fewer false positives.
   - On a side note, America's airline security is much quicker than Canada's, despite being more of a hassle (you have to take off your shoes and such).
   - The fact that you cannot take a full water bottle through security is surprisingly poorly advertised in the areas leading up to security. Signage instructs you to remove your laptop computer and your 3-1-1 bag, but I can't recall ever seeing a sign that says "Empty your water bottle before security!" or something.
-    - Yes, I chugged a 750mL bottle of water while waiting in line for security. Shush yourself.
+    - Yes, I chugged a 750ml bottle of water while waiting in line for security. Shush yourself.
 
 <figure>
 	<img src="/images/blog/20171112_125139.jpg" alt="image">
