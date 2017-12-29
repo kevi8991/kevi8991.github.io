@@ -16,18 +16,26 @@ I spent reading week this year in lovely Paris, for a whole four days! Pretty ex
 First order of business was the Airbnb. Normally, this wouldn't be an issue, but our host was apparently away on business or something... so she sent her cousin to let us in and accept the payment. Of course, this became a whole ordeal since neither of us had data, but we found some Wifi and made it work.
 
 <figure>
-	<img src="/images/travelogue/paris-in-four-days/000062820024.jpg" alt="image">
-	<figcaption>A Cross in the Catacombs. Olympus OM-10, Zuiko Auto-S 50mm f/1.8. Kodak TriX.</figcaption>
+	<img src="/images/travelogue/paris-in-four-days/000063640033.jpg" alt="image">
+	<figcaption>Golden Hour in Luxembourg Gardens. Olympus OM-10, Zuiko Auto-S 50mm f/1.8. Presumably Fuji Superia X-TRA 400.</figcaption>
 </figure>
 
-We visited the Catacombs in the evening after dropping off our stuff, and boy was it spooky down there! If I recall correctly, the bones of about six million people in graveyards across Paris were dug up and relocated into the old limestone quarries beneath the city throughout the 16th century, as graves within the city were dangerously over capacity.
+We took a lovely stroll through the Luxembourg Gardens after dropping off our stuff. I think this was our only sunny day in Paris; it was raining for most of our stay. Nevertheless, the lighting was absolutely perfect for a few hours, and so we took our time walking through the meticulously maintained groves of trees and fields of grass. Reminded me a lot of the Charlottenburg Palace Gardens in Berlin; the attention to detail is astounding.
 
 <figure>
-	<img src="/images/travelogue/paris-in-four-days/000062820023.jpg" alt="image">
-	<figcaption>A Spooky Smile. Skulls are arranged in lines or patterns among the bones.</figcaption>
+  <img src="/images/travelogue/paris-in-four-days/000063640034.jpg" alt="image">
+  <figcaption>Sun setting over the Gardens.</figcaption>
 </figure>
 
-Just goes to show how inefficient traditional burials were and/or are, I suppose. Anyway, we grabbed dinner at [Le Hibou](http://lehibouparis.fr/en/services) on the way back to the Airbnb, and called it a night.
+While we were meandering around, Andrew and I somehow got split up for about half an hour. This would not have been as concerning if Andrew had a roaming plan (I have really cheap roaming rates), but alas; we just circled around until we ran into each other again. Note to self: have rendezvous times and places throughout the day when traveling abroad!
+
+<figure class="half">
+	<img src="/images/travelogue/paris-in-four-days/000062820023.jpg" alt="image">
+  <img src="/images/travelogue/paris-in-four-days/000062820024.jpg" alt="image">
+	<figcaption>Skulls and a Cross in the Catacombs. Shot on Kodak TriX.</figcaption>
+</figure>
+
+We visited the Catacombs in the evening, and boy was it spooky down there! If I recall correctly, the bones of about six million people in graveyards across Paris were dug up and relocated into the old limestone quarries beneath the city throughout the 16th century, as graves within the city were dangerously over capacity. Just goes to show how inefficient traditional burials were and/or are, I suppose. Anyway, we grabbed dinner at [Le Hibou](http://lehibouparis.fr/en/services) on the way back to the Airbnb, and called it a night.
 
 ## Day Two
 
@@ -58,11 +66,22 @@ Anyway, the view from the top was absolutely stunning; the Eiffel Tower is the t
 	<figcaption>Overlooking the bridges across the Seine as the clouds roll away. Shot on Rollei Vario Chrome.</figcaption>
 </figure>
 
-Following a lovely lunch at [Chez Ming](http://www.chezming.fr), we made our way over to the [Palais de Tokyo](http://www.palaisdetokyo.com/en) and promptly fell asleep on the couches outside the gift shop--we'd probably slept about five hours over the past three days!
+Following a lovely lunch at [Chez Ming](http://www.chezming.fr), we made our way over to the [Palais de Tokyo](http://www.palaisdetokyo.com/en) and promptly fell asleep on the couches outside the gift shop--we'd probably slept about five hours over the past three days! Nevertheless, it was a much-needed and restful break.
 
 <figure>
 	<img src="/images/travelogue/paris-in-four-days/006028640020.jpg" alt="image">
 	<figcaption>Focal piece of the Tuesday room. Each segment of the exhibit represents a different day of the week.</figcaption>
 </figure>
 
-I found the exhibit thoroughly enjoyable, and spent several hours weaving my way through each of the different rooms. _Saturday Night_--a discombobulated mess of posters, sculptures, and household items--and _Monday_--sculptures depicting various moods experienced through a long and dreary Monday--were particularly entertaining for me. You can find out more about the exhibit [here](http://www.palaisdetokyo.com/en/event/carte-blanche-camille-henrot).
+I found the exhibit thoroughly enjoyable, and spent several hours working my way through each of the different rooms. _Saturday Night_--a discombobulated mess of posters, sculptures, and household items--and _Monday_--sculptures depicting various moods experienced through a long and dreary Monday--were particularly entertaining for me. You can find out more about the exhibit [here](http://www.palaisdetokyo.com/en/event/carte-blanche-camille-henrot).
+
+<figure>
+  <img src="/images/travelogue/paris-in-four-days/006028640025.jpg" alt="image">
+  <figcaption>Looking up at the Arc de Triomphe. Don't worry, I wasn't standing in the middle of traffic!</figcaption>
+</figure>
+
+Miraculously, we somehow found it in ourselves to make our way over to the Arc de Triomphe and climb up to the viewing platform in the evening. The view of the city was splendid; I tried really hard to get a good shot of the Eiffel Tower on slide film, but the slightly blurry one at the top of the page is the only one that turned out. If I recall correctly, we had dinner somewhere in the Latin Quarter before returning to the Airbnb and passing out.
+
+## Day Three
+
+Andrew was already fairly ill during the first leg of the trip, but today brought around a second wave of terrible coughing and a general lack of energy. He insisted I go out and enjoy my stay, though, so I took it upon myself to explore the legendary Rue de Rome.
