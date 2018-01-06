@@ -2,11 +2,13 @@
 title: Paris in Four Days
 categories: travelogue
 layout: post
-tags: travel
+tags: [travel, film]
 date: 2017-12-16T02:08
 modified: 2017-12-27T14:51
 image:
   feature: travelogue/006028640028.jpg
+relatedposts:
+  - url: /blog/airports-a-rant/
 ---
 
 I spent reading week this year in lovely Paris, for a whole four days! Pretty exciting, I know. I make an effort to take a trip out of the city every chance I get, even if the break is only a few days long, and so I enthusiastically agreed to accompany my friend [Andrew](https://www.facebook.com/andrew.hoang.39) on a Parisian adventure he'd been planning for a while. Since I decided to tag along several weeks after he had already booked his flight, we had to hunt each other down in CDG after our respective flights arrived, but we somehow figured it out and went on our way.
@@ -73,7 +75,7 @@ Following a lovely lunch at [Chez Ming](http://www.chezming.fr), we made our way
 	<figcaption>Focal piece of the Tuesday room. Each segment of the exhibit represents a different day of the week.</figcaption>
 </figure>
 
-I found the exhibit thoroughly enjoyable, and spent several hours working my way through each of the different rooms. _Saturday Night_--a discombobulated mess of posters, sculptures, and household items--and _Monday_--sculptures depicting various moods experienced through a long and dreary Monday--were particularly entertaining for me. You can find out more about the exhibit [here](http://www.palaisdetokyo.com/en/event/carte-blanche-camille-henrot).
+I found the exhibit thoroughly enjoyable, and spent several hours working my way through each of the different rooms. _Saturday Night_--a discombobulated mess of posters, sculptures, and household items--and _Monday_--sculptures depicting various moods experienced through a long and dreary start of the week--were particularly entertaining for me. You can find out more about the exhibit [here](http://www.palaisdetokyo.com/en/event/carte-blanche-camille-henrot).
 
 <figure>
   <img src="/images/travelogue/paris-in-four-days/006028640025.jpg" alt="image">
@@ -84,4 +86,12 @@ Miraculously, we somehow found it in ourselves to make our way over to the Arc d
 
 ## Day Three
 
-Andrew was already fairly ill during the first leg of the trip, but today brought around a second wave of terrible coughing and a general lack of energy. He insisted I go out and enjoy my stay, though, so I took it upon myself to explore the legendary Rue de Rome.
+Andrew was already fairly ill during the first leg of the trip, but today brought about a second wave of terrible coughing and a general lack of energy. He insisted I go out and enjoy my stay, though, so I took it upon myself to explore the legendary Rue de Rome.
+
+<figure>
+  <img src="/images/travelogue/paris-in-four-days/006028640031.jpg" alt="image">
+  <figcaption>Walking along Rue de Rome.</figcaption>
+</figure>
+
+_To be continued_
+(some of my film hasn't been developed yet aha)

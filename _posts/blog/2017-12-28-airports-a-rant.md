@@ -35,11 +35,20 @@ I've been traveling a lot recently, and thus I'm reminded of the horrendous inef
   - Seating areas near the gate never have enough outlets. I do recognize the effort being made, but YVR has had quadruple the amount of outlets for years.
   - Don't even get me started on the Wifi.
 
+- Why is airport food so expensive? A tiny tray of crappy take-out sushi runs you $20 bucks in the airport. Starbucks is actually one of the cheaper options available at YYZ, which is pretty sad.
+  - I'm fortunate enough to have lounge access in most North American airports, where the food is freshly made to order--and free! The Plaza Premium lounge in YVR's International terminal also offers excellent showers and nap rooms.
+  - An interesting thing about expensive airport food is that it's largely a North American problem; my dining experience at airports abroad has generally been better-tasting and cheaper.
+
 <figure>
 	<img src="/images/blog/20171107_191549.jpg" alt="image">
-	<figcaption>Very pretty, yes, but where are the signs?!</figcaption>
+	<figcaption>Pearson's international terminal. Very pretty, yes, but where are the signs?!</figcaption>
 </figure>
 
-- Airport food. Why is it so expensive? A tiny tray of crappy take-out sushi runs you $20 bucks in the airport. Starbucks is actually one of the cheaper options available at YYZ, which is pretty sad.
-  - I'm fortunate enough to have lounge access in most North American airports, where the food is freshly made to order--and free! The Plaza Premium lounge in YVR's International terminal also offers excellent showers and nap rooms.
-  - The worst part about expensive airport food is that it's largely a North American problem; my dining experience at airports abroad has generally been better-tasting and cheaper.
+- I feel like airlines should be doing a lot more to make traveling with small children as painless as possible. While priority boarding is a good start, I think there's a lot of room for improvement.
+  - Small children under the age of 6 or so should be entitled to a free seat. I know infants are allowed to sit on the lap of the parent they're traveling with, but I can't imagine that being a comfortable arrangement for more than a couple of hours on end--hence the crying babies on flights.
+    - This would also mean an extra article of carry-on luggage, for all those kid-related supplies!
+  - I also think airlines should offer free foam or silicone earplugs on long-haul flights, for two reasons:
+    - Infants and toddlers _will cry_ when they are upset, and angry glares at the parental units won't change a thing--but at least you'll be able to flag down a flight attendant to drown out some of the noise.
+    - The cost of foam earplugs is effectively nil, and not everyone wants crappy earbuds to watch an in-flight movie on a tiny screen. Please, just give passengers the option of taking free earplugs if they don't feel like coughing up $2.99 for disposable earbuds!
+
+That's all I have to say for now! I'm sure I'll come up with more to ramble on about during my return flight, but I might also write up a post about tips for smooth travels or something. Thanks for reading~
