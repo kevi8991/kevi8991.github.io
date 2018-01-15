@@ -11,7 +11,7 @@ relatedposts:
   - url: /blog/airports-a-rant/
 ---
 
-I spent reading week this year in lovely Paris, for a whole four days! Pretty exciting, I know. I make an effort to take a trip out of the city every chance I get, even if the break is only a few days long, and so I enthusiastically agreed to accompany my friend [Andrew](https://www.facebook.com/andrew.hoang.39) on a Parisian adventure he'd been planning for a while. Since I decided to tag along several weeks after he had already booked his flight, we had to hunt each other down in CDG after our respective flights arrived, but we somehow figured it out and went on our way.
+I spent reading week this year in lovely Paris, for a whole four days! Yes, _I know_, not enough time. But I make an effort to take a trip out of the city every chance I get, even if the break is only a few days long, so I enthusiastically agreed to accompany my friend [Andrew](https://www.facebook.com/andrew.hoang.39) on a Parisian adventure he'd been planning for a while. Since I decided to tag along several weeks after he had already booked his flight, we had to hunt each other down in CDG after our respective flights arrived, but we somehow figured it out and went on our way.
 
 ## Day One
 
@@ -89,9 +89,17 @@ Miraculously, we somehow found it in ourselves to make our way over to the Arc d
 Andrew was already fairly ill during the first leg of the trip, but today brought about a second wave of terrible coughing and a general lack of energy. He insisted I go out and enjoy my stay, though, so I took it upon myself to explore the legendary Rue de Rome.
 
 <figure>
-  <img src="/images/travelogue/paris-in-four-days/006028640031.jpg" alt="image">
-  <figcaption>Walking along Rue de Rome.</figcaption>
+  <img src="/images/travelogue/paris-in-four-days/006028640031-2.jpg" alt="image">
+  <figcaption>Strolling down la Rue de Rome while mulling over the idea of moving to Europe.</figcaption>
 </figure>
 
-_To be continued_
-(some of my film hasn't been developed yet aha)
+La Rue de Rome is lined with luthiers and music stores, making it an absolute dream for musicians of all kinds. I spent several hours in [La Flute de Pan](https://www.laflutedepan.com), a massive music store that comprises three separate locations for different types of music, and came away with tons of cool stuff. European musicians have an appreciation for playing from well-published, extensively researched scores, and one can see that in the breadth of selection available in their music stores. Conversely, I don't think conservatory students on this side of the world really care about what they play with, and publishing companies are aware of this. Companies like [Zimmerman](https://www.musikverlag-zimmermann.de) don't even have vendors in North America because they can't compete with poorly-edited conservatory editions, so ordering obscure scores can take months...
+
+## Day Four
+
+<figure>
+  <img src="/images/travelogue/paris-in-four-days/006028640038-2.jpg" alt="image">
+  <figcaption>Lost on the way to the bakery.</figcaption>
+</figure>
+
+I slept in and ate food.

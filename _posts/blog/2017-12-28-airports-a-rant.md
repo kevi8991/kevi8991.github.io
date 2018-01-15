@@ -48,7 +48,7 @@ I've been traveling a lot recently, and thus I'm reminded of the horrendous inef
   - Small children under the age of 6 or so should be entitled to a free seat. I know infants are allowed to sit on the lap of the parent they're traveling with, but I can't imagine that being a comfortable arrangement for more than a couple of hours on end--hence the crying babies on flights.
     - This would also mean an extra article of carry-on luggage, for all those kid-related supplies!
   - I also think airlines should offer free foam or silicone earplugs on long-haul flights, for two reasons:
-    - Infants and toddlers _will cry_ when they are upset, and angry glares at the parental units won't change a thing--but at least you'll be able to flag down a flight attendant to drown out some of the noise.
+    - Infants and toddlers _will cry_ when they are upset, and angry glares at the parental units won't change a thing--but at least you'll be able to drown out some of the noise.
     - The cost of foam earplugs is effectively nil, and not everyone wants crappy earbuds to watch an in-flight movie on a tiny screen. Please, just give passengers the option of taking free earplugs if they don't feel like coughing up $2.99 for disposable earbuds!
 
 That's all I have to say for now! I'm sure I'll come up with more to ramble on about during my return flight, but I might also write up a post about tips for smooth travels or something. Thanks for reading~
