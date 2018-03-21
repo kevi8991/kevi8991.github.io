@@ -102,4 +102,20 @@ La Rue de Rome is lined with luthiers and music stores, making it an absolute dr
   <figcaption>Lost on the way to the bakery.</figcaption>
 </figure>
 
-I slept in and ate food.
+Final day of our trip! I ended up sleeping in because I was on the phone with Victoria until the wee hours, but it all worked out as I spent the bulk of the day packing up my duffle. Andrew was still knocked out from the previous day, so I watched some YouTube videos by [Alex French Guy Cooking](https://www.youtube.com/channel/UCPzFLpOblZEaIx2lpym1l1A) and decided to check out the bakery he featured in this [vlog](https://youtu.be/9hOXfOx8Zkc) for a late lunch.
+
+<figure>
+  <img src="/images/travelogue/paris-in-four-days/006028640039.jpg" alt="image">
+  <figcaption>The cutest of snacks! Espresso is typically served with a little chocolate square on the side, but I got a cake so they didn't give me one.</figcaption>
+</figure>
+
+I got through a good chunk of my book at the bakery before doing some shopping at [Les Halles](http://www.aparisguide.com/leshalles/index.html), a market-turned-mall that also happens to sit atop the largest train station in all the world. Being a shopping addict as well as a transit nerd, how could I possibly resist?
+
+<figure>
+  <img src="/images/travelogue/paris-in-four-days/000043330015.jpg" alt="image">
+  <figcaption>One of the dozens of tunnels in Châtelet - Les Halles Station. The transit system in Paris is so, so good; but we got lost very, very frequently.</figcaption>
+</figure>
+
+Finishing off the day--and the trip, I suppose--was the [Paris Philharmonic](https://philharmoniedeparis.fr/en)! They were playing [Grieg's Peer Gynt and Mendelssohn's Die Erste Walpurgisnacht](https://philharmoniedeparis.fr/en/activity/concert-symphonique/17796-orchestre-de-paris-hengelbrock?date=1510425000) with a staggeringly large ensemble. Hengelbrock led all 150 instrumentalists and 200 choristers beautifully, and I also thoroughly appreciated the sound of the space itself. You can read a little more about it [here](https://marshallmarcus.wordpress.com/2015/01/14/ce-soir-nous-sommes-tous-la-philharmonie/), if you fancy.
+
+That about wraps up my Parisian adventure! The return flight was fairly uneventful, and school kicked right back up the morning after we got back, so I haven't really had time to process the events of the trip until now. Thanks to Andrew for inviting me to tag along, and the Paris Philharmonic for an unforgettable experience!
