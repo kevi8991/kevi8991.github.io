@@ -14,4 +14,6 @@ That being said, being 21 years old means a lot of things. It means I haven't be
 
 That being said, I've done a lot of stuff to that end. I've just planned out some work for the summer months, and I'm also looking to join [IATSE58](https://www.iatse58.org) to get a head start on my hopefully-an-audio-engineer-but-theatre-tech-works-too career. I'm also taking slightly better care of myself--with the notable exception of last week, as Sunday in the Park with George just wrapped up--and I'm feeling pretty damn good about life right now. I've got some awesome friends, I'm fairly healthy, and I feel like I know what I'm doing, as well as where I'm going.
 
-Moving forward, I think I really ought to cement in a real sleep schedule or a fixed wakeup time. Waking up this morning was not pleasant, and I hope that doesn't carry into the rest of the day. I also need to start working a bit harder and saving some money up, regardless of where life takes me.
+I love my friends so, so much. Like, wow. Friends are great <3
+
+Moving forward, I think I really ought to cement in a real sleep schedule or a fixed wakeup time. Waking up this morning was not pleasant, and I hope that doesn't carry into the rest of the day. I also need to start working a bit harder and saving some money up, regardless of where life takes me. Perhaps also start posting soon?! But those are concerns for another day; it's time to write two essays and run to class!
