@@ -33,7 +33,7 @@ K: They stop, they find the problem, and they start again. They’ve fixed it wi
 
 Not only are you being efficient with your time with the players, but also the logistical issue of being in MacMillan, and getting them together in this space at the same time. Where did you learn that, how did you come up with this, and how do you hold their focus over two hours? With five pieces, 30 musicians.
 
-G: Well, we don’t always sortof move as quickly as we moved today. We’re starting to ramp up for the concert, so I’m starting to try and get them to do more playing, and less me… teaching stuff. So let’s see... part of it is that with these players; usually as soon as the problem is exposed, they can use their ears to create a solution. So part of it is **allowing them to know what’s going on.**
+G: Well, we don’t always sortof move as quickly as we moved today. We’re starting to ramp up for the concert, so I’m starting to try and get them to do more playing, and less me… teaching stuff. So let’s see... part of it is that with these players; usually as soon as the problem is exposed, they can use their ears to create a solution. **So part of it is allowing them to know what’s going on.**
 
 That moment in _Traveller_ where they’re all playing dadaDAdup BAdadadup—but it’s all crossed, passed—it changed immediately as soon as they understood that that was going on, so then they started to parse things out in their ears just a little bit better. You just figure that out over time, **always remembering that they don’t have the score.**
 
@@ -41,7 +41,7 @@ K: Yup.
 
 G: So my advantage because I have the score, and I know the piece, is then **I can help illuminate for them and help guide their listening.** So with that as a motivation, then it’s a matter of finding out the best way to say that, and just help shine a light on things they’re not hearing clearly or don’t know what to listen for.
 
-So how do you get so you can do that? Well y’know, I always say that **the best thing you can do to learn how to rehearse is to learn how to practice.** That’s kinda what practicing is. Listening carefully to yourself, having a sense in your mind about what the structure of something is, and then going forward from there.
+So how do you get so you can do that? Well y’know, **I always say that the best thing you can do to learn how to rehearse is to learn how to practice.** That’s kinda what practicing is. Listening carefully to yourself, having a sense in your mind about what the structure of something is, and then going forward from there.
 
 K: And that way when you walk in, it’s not like the issue is new or completely a surprise; you have something to work from.
 
@@ -245,7 +245,7 @@ G: Okay. Umm…
 
 That concludes the bulk of the interview! Dr. MacKay is SO COOL so I'm super glad I got the chance to interview her for this assignment, and spin it into a really informative discussion. Hope y'all enjoyed too <3
 
-Also, below are some after-interview chats; mostly for my own reference, but I figured I'd throw them up for completion's sake.
+Also, below are some post-interview chats; mostly for my own reference, but I figured I'd throw them up for completion's sake.
 
 ----
 ****
