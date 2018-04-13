@@ -35,7 +35,7 @@ Not only are you being efficient with your time with the players, but also the l
 
 G: Well, we don’t always sortof move as quickly as we moved today. We’re starting to ramp up for the concert, so I’m starting to try and get them to do more playing, and less me… teaching stuff. So let’s see... part of it is that with these players; usually as soon as the problem is exposed, they can use their ears to create a solution. So part of it is **allowing them to know what’s going on.**
 
-That moment in Traveller where they’re all playing dadaDAdup BAdadadup—but it’s all crossed, passed—it changed immediately as soon as they understood that that was going on, so then they started to parse things out in their ears just a little bit better. You just figure that out over time, **always remembering that they don’t have the score.**
+That moment in _Traveller_ where they’re all playing dadaDAdup BAdadadup—but it’s all crossed, passed—it changed immediately as soon as they understood that that was going on, so then they started to parse things out in their ears just a little bit better. You just figure that out over time, **always remembering that they don’t have the score.**
 
 K: Yup.
 
