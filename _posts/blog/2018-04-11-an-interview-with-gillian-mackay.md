@@ -222,7 +222,7 @@ G: Mhm.
 
 K: But… okay. So coming from the angle of both a conductor and a player, what do you like to see in other conductors? And what do you not like to see?
 
-G: Mhm. **Well I like to see expressivity, clarity of rhythm, and economy.**
+G: Mhm. Well I like to see **expressivity, clarity of rhythm, and economy.**
 
 K: I think that comes through in your conducting!
 
