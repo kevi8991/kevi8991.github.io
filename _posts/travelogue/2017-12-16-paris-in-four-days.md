@@ -6,7 +6,7 @@ tags: [travel, film]
 date: 2017-12-16T02:08
 modified: 2017-12-27T14:51
 image:
-  feature: travelogue/006028640028.jpg
+  feature: travelogue/paris-in-four-days/006028640028.jpg
 relatedposts:
   - url: /blog/airports-a-rant/
 ---
@@ -113,7 +113,7 @@ I got through a good chunk of my book at the bakery before doing some shopping a
 
 <figure>
   <img src="/images/travelogue/paris-in-four-days/000043330015.jpg" alt="image">
-  <figcaption>One of the dozens of tunnels in Châtelet - Les Halles Station. The transit system in Paris is so, so good; but we got lost very, very frequently.</figcaption>
+  <figcaption>One of the dozens of tunnels in Châtelet - Les Halles Station. The transit system in Paris is so, so good; but we got lost very, very frequently. Shot on CineStill 800T.</figcaption>
 </figure>
 
 Finishing off the day--and the trip, I suppose--was the [Paris Philharmonic](https://philharmoniedeparis.fr/en)! They were playing [Grieg's Peer Gynt and Mendelssohn's Die Erste Walpurgisnacht](https://philharmoniedeparis.fr/en/activity/concert-symphonique/17796-orchestre-de-paris-hengelbrock?date=1510425000) with a staggeringly large ensemble. Hengelbrock led all 150 instrumentalists and 200 choristers beautifully, and I also thoroughly appreciated the sound of the space itself. You can read a little more about it [here](https://marshallmarcus.wordpress.com/2015/01/14/ce-soir-nous-sommes-tous-la-philharmonie/), if you fancy.

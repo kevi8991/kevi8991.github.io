@@ -6,7 +6,7 @@ date: 2017-12-29T23:48
 modified: 2018-04-14T14:17
 categories: travelogue
 image:
-  feature: travelogue/000063640016.jpg
+  feature: travelogue/a-weekend-in-montreal/000063640007.jpg
 relatedposts:
   - url: /travelogue/paris-in-four-days
 ---
@@ -20,10 +20,6 @@ Believe it or not, I actually went on _two_ trips over reading week--I spent the
 </figure>
 
 We had this brilliant plan to go on a library tour on Sunday--our first and final full day in the city--but we elected to sleep in and spend the afternoon at the [Montreal Museum of Fine Arts](https://www.mbam.qc.ca/en/). I left my camera at the coat check tho.
-
-<figure>
-  <img src="/images/travelogue/a-weekend-in-montreal/000063640007.jpg" alt="image">
-  </figure>
 
 <figure>
   <img src="/images/travelogue/a-weekend-in-montreal/000063640003.jpg" alt="image">

@@ -4,6 +4,8 @@ categories: blog
 title: "Airports: A Rant"
 tags: travel
 date: 2017-12-28T00:53
+image:
+  feature: blog/000063640017.jpg
 ---
 
 I've been traveling a lot recently, and thus I'm reminded of the horrendous inefficiency that is _airports_. Here are, in no particular order, a few of my gripes:
