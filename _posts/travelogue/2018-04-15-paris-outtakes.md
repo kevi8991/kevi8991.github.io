@@ -20,7 +20,7 @@ Some photos from places we visited that didn't make the other post! I shot these
 </figure>
 <figure>
   <img src="/images/travelogue/paris-outtakes/000063640021.jpg" alt="image">
-  <figcaption>The first few frames I took after we got off the plane, shot on Fuji Superia X-TRA 400. Andrew is so cute when he's excited!!</figcaption>
+  <figcaption>The first few frames I took after we got off the plane, shot on Fuji Natura 1600. Andrew is so cute when he's excited!!</figcaption>
 </figure>
 
 We arrived in Paris from CDG in the early afternoon, so we had a good amount of time to roam the city and enjoy the [golden hour](https://en.wikipedia.org/wiki/Golden_hour_(photography)). I have no regrets over leaving the DSLR at home--these colours look so good on film.

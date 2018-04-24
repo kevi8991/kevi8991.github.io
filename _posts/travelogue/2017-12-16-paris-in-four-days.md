@@ -19,7 +19,7 @@ First order of business was the Airbnb. Normally, this wouldn't be an issue, but
 
 <figure>
 	<img src="/images/travelogue/paris-in-four-days/000063640033.jpg" alt="image">
-	<figcaption>Golden Hour in Luxembourg Gardens. Olympus OM-10, Zuiko Auto-S 50mm f/1.8. Presumably Fuji Superia X-TRA 400.</figcaption>
+	<figcaption>Golden Hour in Luxembourg Gardens. Olympus OM-10, Zuiko Auto-S 50mm f/1.8. Shot on Fuji Natura 1600.</figcaption>
 </figure>
 
 We took a lovely stroll through the Luxembourg Gardens after dropping off our stuff. I think this was our only sunny day in Paris; it was raining for most of our stay. Nevertheless, the lighting was absolutely perfect for a few hours, and so we took our time walking through the meticulously maintained groves of trees and fields of grass. Reminded me a lot of the Charlottenburg Palace Gardens in Berlin; the attention to detail is astounding.
