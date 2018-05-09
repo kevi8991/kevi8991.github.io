@@ -238,7 +238,7 @@ K: For sure!
 
 G: Okay. Umm…
 
-**I think what makes a conductor good is someone who’s gonna to contribute to the product; and help coordinate it, and help enhance it; but allow the players to shine.**
+**I think what makes a conductor good is someone who’s going to contribute to the product; and help coordinate it, and help enhance it; but allow the players to shine.**
 
 ----
 ****
