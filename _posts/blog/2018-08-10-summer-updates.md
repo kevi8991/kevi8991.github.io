@@ -8,7 +8,7 @@ tags: [school, life, blogging]
 
 WOW I have not posted in a while!! Hello world!!!
 
-First off, in no particular order, some life updates:
+In no particular order, some life updates:
 
 - Haven't figured out what to name my new [bike](/blog/a-new-friend/) yet, but Pinkie is in consideration
 - Scored a slot in the [TCDS](https://www.facebook.com/trinitycollegedramaticsociety/) season with the lovely and fantastically talented [Rebecca Lefranc](https://www.facebook.com/rebecca.lefranc.9); we're producing [If/Then](https://www.mtishows.com/ifthen) in March
