@@ -17,6 +17,8 @@ Shure: [How to Control Feedback in a Sound System](http://blog.shure.com/how-to-
 
 Sweetwater: [How to Mic a Drum Kit](https://www.sweetwater.com/insync/mic-drum-kit/)
 
+The Small Venue Survivalist: [Why Audio Humans Get So Bent Out Of Shape When A Mic Is Cupped](https://smallvenuesurvivalist.com/why-audio-humans-get-so-bent-out-of-shape-when-a-mic-is-cupped/)
+
 ## Set Construction
 
 Theatrecrafts: [Glossary of Technical Terms](http://www.theatrecrafts.com/pages/home/topics/stage-management/theatre-building/)
