@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Theatrical Micing Techniques: Ringing Them Out"
+title: "Theatrical Micing: Ringing Mics Out, Part 1"
 categories: audio
 tags: audio
 date: 2018-09-14T01:20
@@ -13,7 +13,7 @@ Feedback (specifically acoustic feedback) occurs when something put out by a spe
 
 With that being said, I feel it vital to stress that properly ringing out your microphones is **not going to guarantee** that one won't encounter feedback during a show. The process is one of many things that can contribute to an overall reduction in feedback, but is by no means the be-all and end-all of feedback reduction. However, when combined with a treated space, careful compression at specific frequencies, and vigilant mixing, it provides one with an impressive amount of additional headroom, or gain before feedback (GBF). Results are most prominent when working with several wireless microphones at once--especially in particularly "live" spaces--but can be observed in most any system and setup.
 
-First off, a short checklist of things that should be done before one begins the process of ringing out microphones:
+Here's a short checklist of things that should be done before one begins the process of ringing out microphones:
 - Ensure that all wireless packs are sufficiently powered. Partially expended batteries from previous shows or rechargeable batteries are recommended for this process, for obvious reasons.
 - Ensure that all of the microphone capsules and cables are functional.
 - Ensure that all microphones are spaced out evenly across the frequency band, and that no two microphones occupy the same frequency.
