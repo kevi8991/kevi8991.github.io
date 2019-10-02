@@ -5,7 +5,7 @@ layout: post
 date: 2019-10-02
 tags: [school, life, blogging]
 relatedposts:
-  - url: /blog/vercingetorix/
+  - url: /blog/looped-figments/
 ---
 
 <figure>

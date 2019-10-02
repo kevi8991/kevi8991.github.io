@@ -4,8 +4,6 @@ categories: blog
 layout: post
 date: 2019-10-01
 tags: [school, audio, music]
-relatedposts:
-  - url: /blog/looped-figments/
 ---
 One of the courses I'm taking this year is _Introduction to Video Game Music_, wherein we get dumped into teams with CS students and make audio assets for video game prototypes. Sounds pretty lit, right?
 
