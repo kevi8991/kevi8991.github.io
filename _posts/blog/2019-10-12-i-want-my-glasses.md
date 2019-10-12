@@ -3,7 +3,7 @@ title: "I want my GLASSES"
 categories: blog
 layout: post
 date: 2019-10-12
-tags: [life, blogging]
+tags: [life]
 ---
 
 So I have multiple pairs of glasses, right?
