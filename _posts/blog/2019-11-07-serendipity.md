@@ -4,7 +4,6 @@ categories: blog
 layout: post
 date: 2019-11-07
 tags: [life]
-published: false
 ---
 ## the occurrence and development of events by chance in a happy or beneficial way.
 
@@ -24,3 +23,6 @@ whatever it may be, treasure those moments--they're far and few between c:
 
 _Thu 2019-11-07 04:54_
 Wow I'm angsty when I'm sleep deprived.
+
+_Fri 2019-11-08 14:19_
+Still sleep deprived.
