@@ -42,3 +42,6 @@ Crap, you're out of school and don't know what to do with the rest of your life.
 
 _Tues 2020-03-31 04:34_
 I was sloshed for my quarantine birthday but my roommate and her girlfriend made me cake and drinks so I really can't complain.
+
+_Tues 2020-03-31 04:49_
+[I love Karlie Kloss](https://youtu.be/vwSxnVfABbc)
